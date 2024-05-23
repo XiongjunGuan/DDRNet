@@ -21,7 +21,7 @@ Skin distortion is a long standing challenge in fingerprint matching, which caus
 The structure of **DDRNet** (the name `DDR` stands for **D**ense **D**istortion field **R**egression) is shown as follows.
 <br>
 <p align="center">
-    <img src="./imgs/method.png"/ width=90%> <br />
+    <img src="./imgs/method.PNG"/ width=90%> <br />
 </p>
 <br>
 
