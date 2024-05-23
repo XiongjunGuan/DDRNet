@@ -8,8 +8,8 @@
 </a>
 
 ### 💬 This repo is the official implementation of:
-- ***TIFS2023***: [Regression of Dense Distortion Field from a Single Fingerprint Image](https://arxiv.org/abs/2404.17610) 
-- ***IJCB2022***: [Direct Regression of Distortion Field from a Single Fingerprint Image](https://arxiv.org/abs/2404.17148)
+- ***T-IFS 2023***: [Regression of Dense Distortion Field from a Single Fingerprint Image](https://arxiv.org/abs/2404.17610) 
+- ***IJCB 2022***: [Direct Regression of Distortion Field from a Single Fingerprint Image](https://arxiv.org/abs/2404.17148)
 
 [Xiongjun Guan](https://xiongjunguan.github.io/), Yongjie Duan, Jianjiang Feng, Jie Zhou
 
