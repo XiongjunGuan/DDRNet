@@ -16,10 +16,10 @@
 ## Introduction
 Skin distortion is a long standing challenge in fingerprint matching, which causes false non-matches. Previous studies have shown that the recognition rate can be improved by estimating the distortion field from a distorted fingerprint and then rectifying it into a normal fingerprint. However, existing rectification methods are based on principal component representation of distortion fields, which is not accurate and are very sensitive to finger pose. In this paper, we propose a rectification method where a self-reference based network is utilized to directly estimate the dense distortion field of distorted fingerprint instead of its low dimensional representation. This method can output accurate distortion fields of distorted fingerprints with various finger poses and distortion patterns. We conducted experiments on FVC2004 DB1\_A, expanded Tsinghua Distorted Fingerprint database (with additional distorted fingerprints in diverse finger poses and distortion patterns) and a latent fingerprint database. Experimental results demonstrate that our proposed method achieves the state-of-the-art rectification performance in terms of distortion field estimation and rectified fingerprint matching.
 
-The structure of **DDRNet** (the name `DDR` stands for **D**ense-**D**istortion field **R**egression) is presented as follows.
+The structure of **DDRNet** (the name `DDR` stands for **D**ense-**D**istortion field **R**egression) is shown as follows.
 <br>
 <p align="center">
-    <img src="./imgs/method.png"/ width=50%> <br />
+    <img src="./imgs/method.png"/ width=90%> <br />
 </p>
 <br>
 
