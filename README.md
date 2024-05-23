@@ -13,6 +13,8 @@
 
 [Xiongjun Guan](https://xiongjunguan.github.io/), Yongjie Duan, Jianjiang Feng, Jie Zhou
 
+<br>
+
 ## Introduction
 Skin distortion is a long standing challenge in fingerprint matching, which causes false non-matches. Previous studies have shown that the recognition rate can be improved by estimating the distortion field from a distorted fingerprint and then rectifying it into a normal fingerprint. However, existing rectification methods are based on principal component representation of distortion fields, which is not accurate and are very sensitive to finger pose. In this paper, we propose a rectification method where a self-reference based network is utilized to directly estimate the dense distortion field of distorted fingerprint instead of its low dimensional representation. This method can output accurate distortion fields of distorted fingerprints with various finger poses and distortion patterns. We conducted experiments on FVC2004 DB1\_A, expanded Tsinghua Distorted Fingerprint database (with additional distorted fingerprints in diverse finger poses and distortion patterns) and a latent fingerprint database. Experimental results demonstrate that our proposed method achieves the state-of-the-art rectification performance in terms of distortion field estimation and rectified fingerprint matching.
 
@@ -26,6 +28,7 @@ The structure of **DDRNet** (the name `DDR` stands for **D**ense-**D**istortion 
 
 ## News
 - **[May 23 2024]** :bell: Code is coming.
+
 <br>
   
 
@@ -43,6 +46,7 @@ torchvision==0.16.2
 tqdm==4.66.1
 
 ```
+
 
 ## Data preparation
 
@@ -88,11 +92,11 @@ If you find this repository useful, please give us stars and use the following B
   pages={1-8}}
 ```
 
+
+## License
+This project is released under the MIT license. Please see the LICENSE file for more information.
+
 ## Contact me
 
 If you have any questions about the code, please contact Xiongjun Guan gxj21@mails.tsinghua.edu.cn
 
-
-If you have any questions about the code, 
-
-Xiongjun Guan: gxj21@mails.tsinghua.edu.cn
