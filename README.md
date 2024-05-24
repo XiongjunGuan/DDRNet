@@ -21,7 +21,7 @@ Skin distortion is a long standing challenge in fingerprint matching, which caus
 The overall flowchart of our proposed algorithm is shown as follows.
 <br>
 <p align="center">
-    <img src="./imgs/flowchart.png"/ width=30%> <br />
+    <img src="./imgs/flowchart.png"/ width=90%> <br />
 </p>
 <br>
 
